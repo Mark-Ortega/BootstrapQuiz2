@@ -1,0 +1,24 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+.nav-tabs{
+    color: red;
+}
+
+p {
+font-size: 11px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.col{
+    margin-left: 20px;
+}
